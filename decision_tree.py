@@ -21,7 +21,7 @@ if input("Welcome to your new life, to begin you get home from school and are co
     elif math_hw and not(english_hw):
         print("Your essay was due two days ago, when you go into school your teacher gets really mad.")
         if input("Do you apologize?(yes/no)\n").lower() == "yes":
-            print("Your teacher reveals themselves to be Zues, and because you were nice to him, you get to become the god of math homework, and live in eternal joy as your sadistic self watches highschool kids struggle with their homework.")
+            print("Your teacher reveals themselves to be Zeus, and because you were nice to him, you get to become the god of math homework, and live in eternal joy as your sadistic self watches highschool kids struggle with their homework.")
         else:
             terminating = True
     elif not(math_hw) and english_hw:
