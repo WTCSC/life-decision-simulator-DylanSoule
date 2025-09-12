@@ -38,7 +38,7 @@ else:
             print("He tells you to get him whatever.")
             tea = input("Do you get earl grey tea, black tea, or green tea for him?(earl grey/black/green)\n").lower()
             if tea == "earl grey":
-                print("Arnold loves your choice, and becuase of that, he decides not to kill you. However, becuase of this you end up starting the robot war and the earth is nuked and split into millions of pieces.")
+                print("Arnold loves your choice, and because of that, he decides not to kill you. However, becuase of this you end up starting the robot war and the earth is nuked and split into millions of pieces.")
             elif tea == "black":
                 print("Arnold doesn't like your choice, but he respects it. He takes you to the future and you end up becoming a general that figthts robots. But they don't exist becuase you didn't invent them. You are then stuck in a paradox and live in immesurable pain.")
             elif tea == "green":
