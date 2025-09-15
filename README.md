@@ -19,10 +19,10 @@ Begin by running the file, one way to do this is shown below
 cd [file path to decision_tree.py] | python3 decision_tree.py
 ```
 After you run the file you will be given the first part of the story and prompted with a yes or no decision
-![alt text](FirstPromtExample.png)  
+![alt text](Images/FirstPromtExample.png)  
 
 Answer the prompt, and make sure you spell yes or no correctly, and you will be prompted with the next step
-![alt text](ResponseExample.png)
+![alt text](Images/ResponseExample.png)
 
 Continue playing until you reach an ending, then the program will end
 
