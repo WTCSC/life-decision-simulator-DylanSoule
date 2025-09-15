@@ -29,4 +29,4 @@ Continue playing until you reach an ending, then the program will end
 ## Program Flow
 * The Program Runs based on specific outcomes defined in the flow chart [here](https://lucid.app/lucidchart/38ef8760-e41d-4c3f-8eb3-f12a53836a7d/edit?viewport_loc=-1484%2C269%2C6711%2C3620%2C0_0&invitationId=inv_4e7db0bc-7d50-400a-8cd2-18c5eaaacfd3), or shown below
 
-![alt text](FlowChart.png)
+![alt text](Images/FlowChart.png)
